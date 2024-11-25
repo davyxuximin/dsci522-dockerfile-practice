@@ -1,0 +1,9 @@
+name: 522-indi1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11.9
+  - pandas==2.0.0
+  - conda-lock==2.5.7
+prefix: /Users/xuximin/miniforge3
